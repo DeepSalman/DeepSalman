@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="" alt="Banner" width="800"/>
+</p>
+
+
 ## 👨‍💻 About Me  
 
 🔭 I’m currently working on **exciting AI & ML projects**  
