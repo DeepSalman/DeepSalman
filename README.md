@@ -1,5 +1,11 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+## 👨‍💻 About Me  
+
+🔭 I’m currently working on **exciting AI & ML projects**  
+👯 I’m looking to collaborate on **open-source machine learning and data science tools**  
+🤝 I’m looking for help with **building scalable AI models and research publishing**  
+🌱 I’m currently learning **deep learning, neural networks, and advanced Python libraries**  
+💬 Ask me about **Python, Data Science, Machine Learning, or cool AI ideas**  
+⚡ Fun fact: **I believe AI can be more empathetic than humans someday 🤖❤️** 
 
 
 # 💻 Tech Stack:
