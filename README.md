@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="" alt="Banner" width="800"/>
+  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmp4eHNqNXhhZTRicGNkZDBiZzVzdGZmNGR6b3R1bmcycDM1d2xidSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FXGoDrsgrNLj2/giphy.gif" width="400"/>
 </p>
+
 
 
 ## 👨‍💻 About Me  
