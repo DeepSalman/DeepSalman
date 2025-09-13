@@ -51,9 +51,9 @@
 
 # 💻 My GitHub Stats
 
-![Salman Farsi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-DeepSalman&show_icons=true&theme=radical)
+![Salman Farsi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeepSalman&show_icons=true&theme=radical)
 
-![Salman Farsi's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=your-DeepSalman&theme=react-dark&area=true)
+![Salman Farsi's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=DeepSalman&theme=react-dark&area=true)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
