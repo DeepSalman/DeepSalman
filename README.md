@@ -49,11 +49,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=salmanfarsi2561&icon=1&color=0)](https://visitcount.itsvg.in)
 
-# 💻 My GitHub Stats
-
-![Salman Farsi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeepSalman&show_icons=true&theme=radical)
-
-![Salman Farsi's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=DeepSalman&theme=react-dark&area=true)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
