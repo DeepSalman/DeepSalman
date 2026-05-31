@@ -20,8 +20,11 @@ jobs:
 
     steps:
       # Generate the snake SVGs (light + dark) into ./dist
-      - name: Generate snake.svg
-        uses: Platane/snk/svg-only@v3
+      # NOTE: use Platane/snk@v3 — NOT Platane/snk/svg-only@v3
+      # The /svg-only sub-action has a broken canvas dependency.
+      - name: Generate snake SVG
+        uses: Platane/snk@v3
+        id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
@@ -29,7 +32,7 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
-      # Push the generated SVG to the "output" branch
+      # Push the generated files to the "output" branch
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
