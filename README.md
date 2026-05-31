@@ -8,7 +8,7 @@
 
 # Hi, I'm Salman 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=DEDBC8&center=true&vCenter=true&width=620&lines=CS+student+%C2%B7+Builder+%C2%B7+Researcher;Causal+ML+%C3%97+Healthcare+Systems;Writing+the+runtime%2C+not+the+history;Probably+awake+at+2am)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=DEDBC8&center=true&vCenter=true&width=620&lines=CS+student+%C2%B7+Builder+%C2%B7+Founder;Full-stack+%C3%97+AI+Systems;Writing+the+runtime%2C+not+the+history;Probably+awake+at+2am)](https://git.io/typing-svg)
 
 <br/>
 
@@ -27,8 +27,7 @@
 const salman = {
   location: "Dhaka, Bangladesh 🇧🇩 — open to remote",
   university: "United International University · CSE · Semester 5",
-  target:     "Erasmus Mundus 2026 → EU research",
-  focus:      ["Causal ML", "Healthcare data", "Full-stack systems"],
+  focus:      ["Full-stack systems", "AI / LLM apps", "Production-grade APIs"],
   buildingNow: "SalmanOS — an OS-themed portfolio you can drag",
   learning:   ["Deep Learning", "RAG systems", "Production AI"],
   philosophy: "Build → ship → learn → repeat",
@@ -36,7 +35,7 @@ const salman = {
 };
 ```
 
-> *"The hospital that saves your life in 2035 will run on code written by someone like me — and that thought keeps me up at night."*
+> *"I launched a company before I understood what a balance sheet was. I still shipped. Some things you learn by doing, not reading."*
 
 ---
 
@@ -161,10 +160,10 @@ An OS-themed portfolio where you can drag windows, type in a terminal, and disco
   </td>
   <td width="50%">
 
-### 🔬 Causal ML Research
-ML research portfolio for Erasmus Mundus 2026 — applying do-calculus and counterfactual reasoning to clinical data.
+### 🚀 Full-Stack AI Lab
+A production-grade Next.js + Express stack with auth, payments, file uploads, and LangChain-powered AI flows.
 
-**Stack:** Python · PyTorch · scikit-learn · pgvector
+**Stack:** Next.js · Express · Prisma · PostgreSQL · LangChain · Docker
 
 ![Status](https://img.shields.io/badge/Status-In_Progress-FFD60A?style=for-the-badge)
 
@@ -178,7 +177,7 @@ ML research portfolio for Erasmus Mundus 2026 — applying do-calculus and count
 
 ### 💬 Let's connect
 
-If you're working on **AI in healthcare**, **causal inference**, or **building things that matter**, my DMs are open.
+If you're working on **AI products**, **full-stack systems**, or **building things that matter**, my DMs are open.
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepsalman/)
 [![Portfolio](https://img.shields.io/badge/Visit_SalmanOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://deepsalman.github.io/Portfolio/)
