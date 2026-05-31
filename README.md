@@ -171,6 +171,33 @@ A production-grade Next.js + Express stack with auth, payments, file uploads, an
   </tr>
 </table>
 
+## 🚢 Already Shipped
+
+<table>
+  <tr>
+    <td width="50%">
+
+### 📦 UIU Lost & Found
+A campus-wide lost-and-found platform for United International University. Students post what they've found or lost, browse listings, and reconnect with their stuff — no more crumpled notice-board flyers.
+
+**Stack:** Next.js · Tailwind · Vercel
+
+[![View Live](https://img.shields.io/badge/View_Live-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://uiu-lost-and-found.vercel.app)
+
+  </td>
+  <td width="50%">
+
+### 🔥 Ambitious by Salman
+A motivation engine in a browser tab — daily prompts, goal tracking, and small-win streaks built to keep you moving when discipline runs out. Less productivity theatre, more shipping.
+
+**Stack:** Node.js · Express · Render
+
+[![View Live](https://img.shields.io/badge/View_Live-46E3B7?style=for-the-badge&logo=render&logoColor=white)](https://ambitious-j14p.onrender.com/)
+
+  </td>
+  </tr>
+</table>
+
 ---
 
 <div align="center">
